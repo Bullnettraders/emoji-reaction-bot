@@ -1,7 +1,7 @@
 {
   "name": "emoji-reaction-bot",
   "version": "1.0.0",
-  "description": "Bot der auf Begrüßungen mit Emojis reagiert",
+  "description": "Bot der auf Begrüßungen automatisch mit Emojis reagiert",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
