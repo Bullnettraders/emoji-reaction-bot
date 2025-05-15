@@ -1,0 +1,13 @@
+{
+  "name": "emoji-reaction-bot",
+  "version": "1.0.0",
+  "description": "Bot der automatisch auf Begrüßungen reagiert",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@sapphire/framework": "^3.8.0",
+    "discord.js": "^14.14.1"
+  }
+}
